@@ -1,4 +1,6 @@
 PAIR PROJECT 
+
+
 This dataset offers valuable insights into credit card transactions made in India, shedding light on the spending behaviors of individuals across the nation. It covers various aspects such as gender, card type, city-wise spending, expense types, and more, providing researchers with a rich source of data to analyze customer preferences and uncover trends in consumer spending.
 
 To effectively utilize this dataset, researchers can start by selecting relevant columns and using pivot tables to summarize the total amount spent by different parameters such as month, city, or gender. Analyzing factors like seasonality/timing of spending and expense types can offer deeper insights into Indian consumer behavior related to credit card usage.
